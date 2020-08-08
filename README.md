@@ -2,6 +2,8 @@
 Implementation of Bidirectional Search That is Guaranteed to Meet in the Middle in Berkeley's Pacman Domain
 AAAI Paper - http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12320/12109
 
+My Report - https://drive.google.com/file/d/11NN1UU3cH3_hRsOi0FR80UEZ4ADCd0P3/view?usp=sharing
+
 Instructions to Run Code from Scratch
 To run Bidirectional Heuristic Search, just supply the algorithm name as bihs instead of other algorithms. The following list of commands is also saved as a text file “commands - BiDirectional Search.txt” in the project directory which should be helpful in running the commands directly. 
 FIXED DOT SEARCH PROBLEM:
